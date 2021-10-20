@@ -1,847 +1,111 @@
-,product_id,composition,fit,product_safety,size,more_sustainable_materials,product_name,product_price,color_name,style_id,color_id,scrapy_datetime
-0,985197005,"Cotton 99%, Elastane 1%",Slim fit,,,Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark denim blue,985197,5,2021-10-14 00:12:26
-1,985197005,"Polyester 65%, Cotton 35%",Slim fit,,,Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark denim blue,985197,5,2021-10-14 00:12:26
-2,985197001,Cotton 100%,Slim fit,,"The model is 189cm/6'2"" and wears a size 32/32",,"
-							  Slim Jeans",19.99,Black,985197,1,2021-10-14 00:12:26
-3,985197001,"Cotton 98%, Elastane 2%",Slim fit,,"The model is 189cm/6'2"" and wears a size 32/32",,"
-							  Slim Jeans",19.99,Black,985197,1,2021-10-14 00:12:26
-4,985197002,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Midnight blue,985197,2,2021-10-14 00:12:26
-5,985197002,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Midnight blue,985197,2,2021-10-14 00:12:26
-6,985197003,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Denim blue,985197,3,2021-10-14 00:12:26
-7,985197003,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Denim blue,985197,3,2021-10-14 00:12:26
-8,985197004,Cotton 100%,Slim fit,,,,"
-							  Slim Jeans",19.99,Dark denim blue,985197,4,2021-10-14 00:12:26
-9,985197004,"Cotton 99%, Elastane 1%",Slim fit,,,,"
-							  Slim Jeans",19.99,Dark denim blue,985197,4,2021-10-14 00:12:26
-10,985197006,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",,"
-							  Slim Jeans",19.99,Light denim blue,985197,6,2021-10-14 00:12:26
-11,985197006,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",,"
-							  Slim Jeans",19.99,Light denim blue,985197,6,2021-10-14 00:12:26
-12,985197007,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark gray,985197,7,2021-10-14 00:12:26
-13,985197007,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark gray,985197,7,2021-10-14 00:12:26
-14,690449051,"Cotton 98%, Elastane 2%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",39.99,Gray,690449,51,2021-10-14 00:12:26
-15,690449001,"Cotton 99%, Elastane 1%",Skinny fit,,,,"
-							  Skinny Jeans",16.99,Light denim blue/trashed,690449,1,2021-10-14 00:12:26
-16,690449002,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",14.99,Denim blue,690449,2,2021-10-14 00:12:26
-17,690449006,Cotton 100%,Skinny fit,,,,"
-							  Skinny Jeans",7.99,Black/washed,690449,6,2021-10-14 00:12:26
-18,690449006,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",7.99,Black/washed,690449,6,2021-10-14 00:12:26
-19,690449007,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",14.99,Light denim blue,690449,7,2021-10-14 00:12:26
-20,690449007,Cotton 100%,Skinny fit,,,,"
-							  Skinny Jeans",14.99,Light denim blue,690449,7,2021-10-14 00:12:26
-21,690449009,"Cotton 99%, Elastane 1%",Skinny fit,,,,"
-							  Skinny Jeans",19.99,Black washed out,690449,9,2021-10-14 00:12:26
-22,690449011,"Cotton 99%, Elastane 1%",Skinny fit,,,,"
-							  Skinny Jeans",19.99,White,690449,11,2021-10-14 00:12:26
-23,690449013,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",27.99,Black/washed,690449,13,2021-10-14 00:12:26
-24,690449013,Polyester 100%,Skinny fit,,,,"
-							  Skinny Jeans",27.99,Black/washed,690449,13,2021-10-14 00:12:26
-25,690449021,Polyester 100%,Skinny fit,,,,"
-							  Skinny Jeans",25.99,Dark denim blue/trashed,690449,21,2021-10-14 00:12:26
-26,690449021,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",25.99,Dark denim blue/trashed,690449,21,2021-10-14 00:12:26
-27,690449022,Polyester 100%,Skinny fit,,"The model is 184cm/6'0"" and wears a size 31/32",,"
-							  Skinny Jeans",39.99,Black/trashed,690449,22,2021-10-14 00:12:26
-28,690449022,"Cotton 98%, Elastane 2%",Skinny fit,,"The model is 184cm/6'0"" and wears a size 31/32",,"
-							  Skinny Jeans",39.99,Black/trashed,690449,22,2021-10-14 00:12:26
-29,690449024,Polyester 100%,Skinny fit,,,,"
-							  Skinny Jeans",20.99,Dark blue/Trashed,690449,24,2021-10-14 00:12:26
-30,690449024,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",20.99,Dark blue/Trashed,690449,24,2021-10-14 00:12:26
-31,690449028,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",19.99,Dark blue/washed out,690449,28,2021-10-14 00:12:26
-32,690449035,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",21.99,Denim blue/trashed,690449,35,2021-10-14 00:12:26
-33,690449036,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",39.99,Black,690449,36,2021-10-14 00:12:26
-34,690449040,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",29.99,Denim gray,690449,40,2021-10-14 00:12:26
-35,690449040,"Polyester 65%, Cotton 35%",Skinny fit,,,,"
-							  Skinny Jeans",29.99,Denim gray,690449,40,2021-10-14 00:12:26
-36,690449043,"Cotton 98%, Elastane 2%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",,"
-							  Skinny Jeans",39.99,Light denim blue/trashed,690449,43,2021-10-14 00:12:26
-37,690449043,"Polyester 65%, Cotton 35%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",,"
-							  Skinny Jeans",39.99,Light denim blue/trashed,690449,43,2021-10-14 00:12:26
-38,690449046,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",39.99,Light denim gray/Trashed,690449,46,2021-10-14 00:12:26
-39,1004476004,"Cotton 90%, Elasterell-P 8%, Elastane 2%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",,"
-							  Freefit® Slim Jeans",49.99,Dark denim blue,1004476,4,2021-10-14 00:12:26
-40,1004476001,"Cotton 90%, Elasterell-P 8%, Elastane 2%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",,"
-							  Freefit® Slim Jeans",49.99,Light denim blue,1004476,1,2021-10-14 00:12:26
-41,1004476002,"Cotton 90%, Elasterell-P 8%, Elastane 2%",Slim fit,,,,"
-							  Freefit® Slim Jeans",49.99,Light denim blue,1004476,2,2021-10-14 00:12:26
-42,1004476005,"Cotton 90%, Elasterell-P 8%, Elastane 2%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",,"
-							  Freefit® Slim Jeans",49.99,Black/No fade black,1004476,5,2021-10-14 00:12:26
-43,811993028,"Cotton 99%, Elastane 1%",Regular fit,"","The model is 185cm/6'1"" and wears a size 31/32",Recycled cotton 20%,"
-							  Regular Jeans",29.99,Denim blue,811993,28,2021-10-14 00:12:26
-44,811993028,"Cotton 99%, Elastane 1%",Regular fit,"			                        ""FOR CHILD’S SAFETY, GARMENT SHOULD FIT SNUGLY. THIS GARMENT IS NOT FLAME RESISTANT. LOOSE-FITTING GARMENT IS MORE LIKELY TO CATCH FIRE.""","The model is 185cm/6'1"" and wears a size 31/32",Recycled cotton 20%,"
-							  Regular Jeans",29.99,Denim blue,811993,28,2021-10-14 00:12:26
-45,811993001,"Cotton 98%, Elastane 2%",Regular fit,"",,,"
-							  Regular Jeans",12.99,Black/washed out,811993,1,2021-10-14 00:12:26
-46,811993001,"Cotton 98%, Elastane 2%",Regular fit,"			                        ""FOR CHILD’S SAFETY, GARMENT SHOULD FIT SNUGLY. THIS GARMENT IS NOT FLAME RESISTANT. LOOSE-FITTING GARMENT IS MORE LIKELY TO CATCH FIRE.""",,,"
-							  Regular Jeans",12.99,Black/washed out,811993,1,2021-10-14 00:12:26
-47,811993002,"Cotton 98%, Elastane 2%",Regular fit,"",,,"
-							  Regular Jeans",29.99,Denim blue,811993,2,2021-10-14 00:12:26
-48,811993002,"Cotton 98%, Elastane 2%",Regular fit,"			                        ""FOR CHILD’S SAFETY, GARMENT SHOULD FIT SNUGLY. THIS GARMENT IS NOT FLAME RESISTANT. LOOSE-FITTING GARMENT IS MORE LIKELY TO CATCH FIRE.""",,,"
-							  Regular Jeans",29.99,Denim blue,811993,2,2021-10-14 00:12:26
-49,811993003,"Cotton 98%, Elastane 2%",Regular fit,"",,Recycled cotton 20%,"
-							  Regular Jeans",29.99,Dark denim blue,811993,3,2021-10-14 00:12:26
-50,811993003,"Cotton 98%, Elastane 2%",Regular fit,"			                        ""FOR CHILD’S SAFETY, GARMENT SHOULD FIT SNUGLY. THIS GARMENT IS NOT FLAME RESISTANT. LOOSE-FITTING GARMENT IS MORE LIKELY TO CATCH FIRE.""",,Recycled cotton 20%,"
-							  Regular Jeans",29.99,Dark denim blue,811993,3,2021-10-14 00:12:26
-51,811993006,"Cotton 98%, Elastane 2%",Regular fit,"",,,"
-							  Regular Jeans",14.99,Graphite gray,811993,6,2021-10-14 00:12:26
-52,811993006,"Cotton 98%, Elastane 2%",Regular fit,"			                        ""FOR CHILD’S SAFETY, GARMENT SHOULD FIT SNUGLY. THIS GARMENT IS NOT FLAME RESISTANT. LOOSE-FITTING GARMENT IS MORE LIKELY TO CATCH FIRE.""",,,"
-							  Regular Jeans",14.99,Graphite gray,811993,6,2021-10-14 00:12:26
-53,811993007,"Cotton 98%, Elastane 2%",Regular fit,"",,,"
-							  Regular Jeans",29.99,Light denim blue,811993,7,2021-10-14 00:12:26
-54,811993007,"Cotton 98%, Elastane 2%",Regular fit,"			                        ""FOR CHILD’S SAFETY, GARMENT SHOULD FIT SNUGLY. THIS GARMENT IS NOT FLAME RESISTANT. LOOSE-FITTING GARMENT IS MORE LIKELY TO CATCH FIRE.""",,,"
-							  Regular Jeans",29.99,Light denim blue,811993,7,2021-10-14 00:12:26
-55,811993021,"Cotton 98%, Elastane 2%",Regular fit,"",,,"
-							  Regular Jeans",29.99,Black,811993,21,2021-10-14 00:12:26
-56,811993021,"Cotton 98%, Elastane 2%",Regular fit,"			                        ""FOR CHILD’S SAFETY, GARMENT SHOULD FIT SNUGLY. THIS GARMENT IS NOT FLAME RESISTANT. LOOSE-FITTING GARMENT IS MORE LIKELY TO CATCH FIRE.""",,,"
-							  Regular Jeans",29.99,Black,811993,21,2021-10-14 00:12:26
-57,811993022,"Cotton 99%, Elastane 1%",Regular fit,"",,,"
-							  Regular Jeans",16.99,Cream,811993,22,2021-10-14 00:12:26
-58,811993022,"Cotton 99%, Elastane 1%",Regular fit,"			                        ""FOR CHILD’S SAFETY, GARMENT SHOULD FIT SNUGLY. THIS GARMENT IS NOT FLAME RESISTANT. LOOSE-FITTING GARMENT IS MORE LIKELY TO CATCH FIRE.""",,,"
-							  Regular Jeans",16.99,Cream,811993,22,2021-10-14 00:12:26
-59,811993024,"Cotton 99%, Elastane 1%",Regular fit,"",,Recycled cotton 20%,"
-							  Regular Jeans",29.99,Denim blue,811993,24,2021-10-14 00:12:26
-60,811993024,Cotton 100%,Regular fit,"			                        ""FOR CHILD’S SAFETY, GARMENT SHOULD FIT SNUGLY. THIS GARMENT IS NOT FLAME RESISTANT. LOOSE-FITTING GARMENT IS MORE LIKELY TO CATCH FIRE.""",,Recycled cotton 20%,"
-							  Regular Jeans",29.99,Denim blue,811993,24,2021-10-14 00:12:26
-61,811993025,Cotton 100%,Regular fit,"",,,"
-							  Regular Jeans",15.99,Light blue,811993,25,2021-10-14 00:12:26
-62,811993025,"Cotton 99%, Elastane 1%",Regular fit,"			                        ""FOR CHILD’S SAFETY, GARMENT SHOULD FIT SNUGLY. THIS GARMENT IS NOT FLAME RESISTANT. LOOSE-FITTING GARMENT IS MORE LIKELY TO CATCH FIRE.""",,,"
-							  Regular Jeans",15.99,Light blue,811993,25,2021-10-14 00:12:26
-63,811993031,"Cotton 99%, Elastane 1%",Regular fit,"",,Recycled cotton 20%,"
-							  Regular Jeans",29.99,Dark denim blue,811993,31,2021-10-14 00:12:26
-64,811993031,"Cotton 99%, Elastane 1%",Regular fit,"			                        ""FOR CHILD’S SAFETY, GARMENT SHOULD FIT SNUGLY. THIS GARMENT IS NOT FLAME RESISTANT. LOOSE-FITTING GARMENT IS MORE LIKELY TO CATCH FIRE.""",,Recycled cotton 20%,"
-							  Regular Jeans",29.99,Dark denim blue,811993,31,2021-10-14 00:12:26
-65,811993034,"Cotton 99%, Elastane 1%",Regular fit,"","The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Regular Jeans",29.99,Pale denim blue,811993,34,2021-10-14 00:12:26
-66,811993034,"Cotton 99%, Elastane 1%",Regular fit,"			                        ""FOR CHILD’S SAFETY, GARMENT SHOULD FIT SNUGLY. THIS GARMENT IS NOT FLAME RESISTANT. LOOSE-FITTING GARMENT IS MORE LIKELY TO CATCH FIRE.""","The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Regular Jeans",29.99,Pale denim blue,811993,34,2021-10-14 00:12:26
-67,811993036,"Cotton 99%, Elastane 1%",Regular fit,"","The model is 183cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Regular Jeans",29.99,Blue,811993,36,2021-10-14 00:12:26
-68,811993036,"Cotton 99%, Elastane 1%",Regular fit,"			                        ""FOR CHILD’S SAFETY, GARMENT SHOULD FIT SNUGLY. THIS GARMENT IS NOT FLAME RESISTANT. LOOSE-FITTING GARMENT IS MORE LIKELY TO CATCH FIRE.""","The model is 183cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Regular Jeans",29.99,Blue,811993,36,2021-10-14 00:12:26
-69,811993037,"Cotton 99%, Elastane 1%",Regular fit,"","The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Regular Jeans",29.99,Dark blue,811993,37,2021-10-14 00:12:26
-70,811993037,"Cotton 99%, Elastane 1%",Regular fit,"			                        ""FOR CHILD’S SAFETY, GARMENT SHOULD FIT SNUGLY. THIS GARMENT IS NOT FLAME RESISTANT. LOOSE-FITTING GARMENT IS MORE LIKELY TO CATCH FIRE.""","The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Regular Jeans",29.99,Dark blue,811993,37,2021-10-14 00:12:26
-71,1013317004,"Cotton 78%, Polyester 21%, Elastane 1%",Regular fit,,,Recycled polyester 21%,"
-							  Hybrid Regular Tapered Joggers",39.99,Black,1013317,4,2021-10-14 00:12:26
-72,1013317004,"Cotton 78%, Polyester 21%, Elastane 1%",Regular fit,,,Recycled cotton 20%,"
-							  Hybrid Regular Tapered Joggers",39.99,Black,1013317,4,2021-10-14 00:12:26
-73,1013317001,"Cotton 77%, Polyester 21%, Elastane 2%",Regular fit,,,Recycled polyester 21%,"
-							  Hybrid Regular Tapered Joggers",39.99,Light denim blue,1013317,1,2021-10-14 00:12:26
-74,1013317001,"Cotton 77%, Polyester 21%, Elastane 2%",Regular fit,,,Recycled cotton 20%,"
-							  Hybrid Regular Tapered Joggers",39.99,Light denim blue,1013317,1,2021-10-14 00:12:26
-75,1013317002,"Cotton 78%, Polyester 21%, Elastane 1%",Regular fit,,"The model is 189cm/6'2"" and wears a size L",Recycled cotton 19%,"
-							  Hybrid Regular Tapered Joggers",39.99,Denim blue,1013317,2,2021-10-14 00:12:26
-76,1013317005,"Cotton 79%, Polyester 19%, Elastane 2%",Regular fit,,,Recycled cotton 20%,"
-							  Hybrid Regular Tapered Joggers",39.99,Gray,1013317,5,2021-10-14 00:12:26
-77,1013317005,"Cotton 79%, Polyester 19%, Elastane 2%",Regular fit,,,Recycled polyester 19%,"
-							  Hybrid Regular Tapered Joggers",39.99,Gray,1013317,5,2021-10-14 00:12:26
-78,938875007,Cotton 100%,Slim fit,,"The model is 188cm/6'2"" and wears a size 31/32",,"
-							  Slim Tapered Jeans",39.99,Black,938875,7,2021-10-14 00:12:26
-79,938875007,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 188cm/6'2"" and wears a size 31/32",,"
-							  Slim Tapered Jeans",39.99,Black,938875,7,2021-10-14 00:12:26
-80,938875001,Cotton 100%,Slim fit,,"The model is 187cm/6'2"" and wears a size 31/30",Recycled cotton 20%,"
-							  Slim Tapered Jeans",39.99,Light denim blue,938875,1,2021-10-14 00:12:26
-81,938875001,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/30",Recycled cotton 20%,"
-							  Slim Tapered Jeans",39.99,Light denim blue,938875,1,2021-10-14 00:12:26
-82,938875002,"Cotton 99%, Elastane 1%",Slim fit,,,,"
-							  Slim Tapered Jeans",39.99,White,938875,2,2021-10-14 00:12:26
-83,938875002,Cotton 100%,Slim fit,,,,"
-							  Slim Tapered Jeans",39.99,White,938875,2,2021-10-14 00:12:26
-84,938875004,"Cotton 99%, Elastane 1%",Slim fit,,,Recycled cotton 20%,"
-							  Slim Tapered Jeans",18.99,Dark gray,938875,4,2021-10-14 00:12:26
-85,938875004,Cotton 100%,Slim fit,,,Recycled cotton 20%,"
-							  Slim Tapered Jeans",18.99,Dark gray,938875,4,2021-10-14 00:12:26
-86,938875008,Cotton 100%,Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Tapered Jeans",39.99,Denim blue,938875,8,2021-10-14 00:12:26
-87,938875008,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Tapered Jeans",39.99,Denim blue,938875,8,2021-10-14 00:12:26
-88,927964002,Cotton 100%,Regular fit,,,Recycled cotton 20%,"
-							  Regular Tapered Crop Jeans",19.99,Light denim blue,927964,2,2021-10-14 00:12:26
-89,927964002,"Polyester 65%, Cotton 35%",Regular fit,,,Recycled cotton 20%,"
-							  Regular Tapered Crop Jeans",19.99,Light denim blue,927964,2,2021-10-14 00:12:26
-90,927964001,"Polyester 65%, Cotton 35%",Regular fit,,,Recycled cotton 20%,"
-							  Regular Tapered Crop Jeans",19.99,Denim blue,927964,1,2021-10-14 00:12:26
-91,927964001,Cotton 100%,Regular fit,,,Recycled cotton 20%,"
-							  Regular Tapered Crop Jeans",19.99,Denim blue,927964,1,2021-10-14 00:12:26
-92,927964003,"Polyester 65%, Cotton 35%",Regular fit,,,,"
-							  Regular Tapered Crop Jeans",19.99,Dark gray,927964,3,2021-10-14 00:12:26
-93,927964003,Cotton 100%,Regular fit,,,,"
-							  Regular Tapered Crop Jeans",19.99,Dark gray,927964,3,2021-10-14 00:12:26
-94,927964004,"Polyester 65%, Cotton 35%",Regular fit,,,Recycled cotton 20%,"
-							  Regular Tapered Crop Jeans",19.99,Steel blue,927964,4,2021-10-14 00:12:26
-95,927964004,Cotton 100%,Regular fit,,,Recycled cotton 20%,"
-							  Regular Tapered Crop Jeans",19.99,Steel blue,927964,4,2021-10-14 00:12:26
-96,927964005,Cotton 100%,Regular fit,,,Recycled cotton 20%,"
-							  Regular Tapered Crop Jeans",10.99,White,927964,5,2021-10-14 00:12:26
-97,1018704002,Cotton 100%,Relaxed fit,,,Recycled cotton 20%,"
-							  Relaxed Pull-on Jeans",24.99,Denim blue,1018704,2,2021-10-14 00:12:26
-98,1018704002,"Polyester 65%, Cotton 35%",Relaxed fit,,,Recycled cotton 20%,"
-							  Relaxed Pull-on Jeans",24.99,Denim blue,1018704,2,2021-10-14 00:12:26
-99,1018704001,Cotton 100%,Relaxed fit,,"The model is 188cm/6'2"" and wears a size M",Recycled cotton 20%,"
-							  Relaxed Pull-on Jeans",24.99,Light denim blue,1018704,1,2021-10-14 00:12:26
-100,1018704001,"Polyester 65%, Cotton 35%",Relaxed fit,,"The model is 188cm/6'2"" and wears a size M",Recycled cotton 20%,"
-							  Relaxed Pull-on Jeans",24.99,Light denim blue,1018704,1,2021-10-14 00:12:26
-101,1018704003,"Polyester 65%, Cotton 35%",Relaxed fit,,,Recycled cotton 20%,"
-							  Relaxed Pull-on Jeans",24.99,Black,1018704,3,2021-10-14 00:12:26
-102,1018704003,Cotton 100%,Relaxed fit,,,Recycled cotton 20%,"
-							  Relaxed Pull-on Jeans",24.99,Black,1018704,3,2021-10-14 00:12:26
-103,1018704001,Cotton 100%,Relaxed fit,,"The model is 188cm/6'2"" and wears a size M",Recycled cotton 20%,"
-							  Relaxed Pull-on Jeans",24.99,Light denim blue,1018704,1,2021-10-14 00:12:26
-104,1018704001,"Polyester 65%, Cotton 35%",Relaxed fit,,"The model is 188cm/6'2"" and wears a size M",Recycled cotton 20%,"
-							  Relaxed Pull-on Jeans",24.99,Light denim blue,1018704,1,2021-10-14 00:12:26
-105,1018704002,Cotton 100%,Relaxed fit,,,Recycled cotton 20%,"
-							  Relaxed Pull-on Jeans",24.99,Denim blue,1018704,2,2021-10-14 00:12:26
-106,1018704002,"Polyester 65%, Cotton 35%",Relaxed fit,,,Recycled cotton 20%,"
-							  Relaxed Pull-on Jeans",24.99,Denim blue,1018704,2,2021-10-14 00:12:26
-107,1018704003,"Polyester 65%, Cotton 35%",Relaxed fit,,,Recycled cotton 20%,"
-							  Relaxed Pull-on Jeans",24.99,Black,1018704,3,2021-10-14 00:12:26
-108,1018704003,Cotton 100%,Relaxed fit,,,Recycled cotton 20%,"
-							  Relaxed Pull-on Jeans",24.99,Black,1018704,3,2021-10-14 00:12:26
-109,974202002,Cotton 100%,Regular fit,,,Recycled cotton 20%,"
-							  Regular Denim Joggers",29.99,Denim blue,974202,2,2021-10-14 00:12:26
-110,974202001,Cotton 100%,Regular fit,,"The model is 187cm/6'2"" and wears a size M",Recycled cotton 20%,"
-							  Regular Denim Joggers",29.99,Light denim blue,974202,1,2021-10-14 00:12:26
-111,974202003,Cotton 100%,Regular fit,,"The model is 187cm/6'2"" and wears a size M",Recycled cotton 20%,"
-							  Regular Denim Joggers",29.99,Black,974202,3,2021-10-14 00:12:26
-112,751994018,"Cotton 98%, Elastane 2%",Slim fit,,,,"
-							  Slim Jeans",29.99,Denim blue,751994,18,2021-10-14 00:12:26
-113,751994001,"Cotton 99%, Elastane 1%",Slim fit,,,,"
-							  Slim Jeans",11.99,Dark gray,751994,1,2021-10-14 00:12:26
-114,751994003,"Cotton 98%, Elastane 2%",Slim fit,,,,"
-							  Slim Jeans",13.99,Light denim blue,751994,3,2021-10-14 00:12:26
-115,751994004,"Cotton 98%, Elastane 2%",Slim fit,,,,"
-							  Slim Jeans",16.99,Dark denim blue,751994,4,2021-10-14 00:12:26
-116,751994005,"Cotton 98%, Elastane 2%",Slim fit,,,,"
-							  Slim Jeans",20.99,Dark blue,751994,5,2021-10-14 00:12:26
-117,751994006,"Cotton 98%, Elastane 2%",Slim fit,,,,"
-							  Slim Jeans",14.99,Denim blue,751994,6,2021-10-14 00:12:26
-118,751994007,"Cotton 98%, Elastane 2%",Slim fit,,,,"
-							  Slim Jeans",22.99,Black/washed out,751994,7,2021-10-14 00:12:26
-119,751994009,"Cotton 98%, Elastane 2%",Slim fit,,,,"
-							  Slim Jeans",29.99,Dark blue denim,751994,9,2021-10-14 00:12:26
-120,751994010,"Cotton 98%, Elastane 2%",Slim fit,,,,"
-							  Slim Jeans",29.99,Dark gray,751994,10,2021-10-14 00:12:26
-121,751994014,"Cotton 98%, Elastane 2%",Slim fit,,,,"
-							  Slim Jeans",17.99,Light gray,751994,14,2021-10-14 00:12:26
-122,751994016,"Cotton 98%, Elastane 2%",Slim fit,,,,"
-							  Slim Jeans",15.99,Dark blue,751994,16,2021-10-14 00:12:26
-123,751994017,"Cotton 98%, Elastane 2%",Slim fit,,,,"
-							  Slim Jeans",16.99,Dark denim blue,751994,17,2021-10-14 00:12:26
-124,751994024,"Cotton 98%, Elastane 2%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",,"
-							  Slim Jeans",29.99,Black denim,751994,24,2021-10-14 00:12:26
-125,751994031,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",,"
-							  Slim Jeans",29.99,Light blue,751994,31,2021-10-14 00:12:26
-126,751994034,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 189cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Slim Jeans",29.99,Dark blue,751994,34,2021-10-14 00:12:26
-127,927964001,"Polyester 65%, Cotton 35%",Regular fit,,,Recycled cotton 20%,"
-							  Regular Tapered Crop Jeans",19.99,Denim blue,927964,1,2021-10-14 00:12:26
-128,927964001,Cotton 100%,Regular fit,,,Recycled cotton 20%,"
-							  Regular Tapered Crop Jeans",19.99,Denim blue,927964,1,2021-10-14 00:12:26
-129,927964002,Cotton 100%,Regular fit,,,Recycled cotton 20%,"
-							  Regular Tapered Crop Jeans",19.99,Light denim blue,927964,2,2021-10-14 00:12:26
-130,927964002,"Polyester 65%, Cotton 35%",Regular fit,,,Recycled cotton 20%,"
-							  Regular Tapered Crop Jeans",19.99,Light denim blue,927964,2,2021-10-14 00:12:26
-131,927964003,"Polyester 65%, Cotton 35%",Regular fit,,,,"
-							  Regular Tapered Crop Jeans",19.99,Dark gray,927964,3,2021-10-14 00:12:26
-132,927964003,Cotton 100%,Regular fit,,,,"
-							  Regular Tapered Crop Jeans",19.99,Dark gray,927964,3,2021-10-14 00:12:26
-133,927964004,"Polyester 65%, Cotton 35%",Regular fit,,,Recycled cotton 20%,"
-							  Regular Tapered Crop Jeans",19.99,Steel blue,927964,4,2021-10-14 00:12:26
-134,927964004,Cotton 100%,Regular fit,,,Recycled cotton 20%,"
-							  Regular Tapered Crop Jeans",19.99,Steel blue,927964,4,2021-10-14 00:12:26
-135,927964005,Cotton 100%,Regular fit,,,Recycled cotton 20%,"
-							  Regular Tapered Crop Jeans",10.99,White,927964,5,2021-10-14 00:12:26
-136,875105003,Cotton 100%,Relaxed fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Relaxed Jeans",29.99,Light denim blue,875105,3,2021-10-14 00:12:26
-137,875105001,Cotton 100%,Relaxed fit,,,Recycled cotton 20%,"
-							  Relaxed Jeans",29.99,Denim blue,875105,1,2021-10-14 00:12:26
-138,875105002,Cotton 100%,Relaxed fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Relaxed Jeans",29.99,Black,875105,2,2021-10-14 00:12:26
-139,875105011,"Polyester 65%, Cotton 35%",Relaxed fit,,,Recycled cotton 20%,"
-							  Relaxed Jeans",29.99,Light denim blue,875105,11,2021-10-14 00:12:26
-140,875105011,Cotton 100%,Relaxed fit,,,Recycled cotton 20%,"
-							  Relaxed Jeans",29.99,Light denim blue,875105,11,2021-10-14 00:12:26
-141,875105015,Cotton 100%,Relaxed fit,,,Recycled cotton 20%,"
-							  Relaxed Jeans",29.99,Light denim blue,875105,15,2021-10-14 00:12:26
-142,985197001,Cotton 100%,Slim fit,,"The model is 189cm/6'2"" and wears a size 32/32",,"
-							  Slim Jeans",19.99,Black,985197,1,2021-10-14 00:12:26
-143,985197001,"Cotton 98%, Elastane 2%",Slim fit,,"The model is 189cm/6'2"" and wears a size 32/32",,"
-							  Slim Jeans",19.99,Black,985197,1,2021-10-14 00:12:26
-144,985197002,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Midnight blue,985197,2,2021-10-14 00:12:26
-145,985197002,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Midnight blue,985197,2,2021-10-14 00:12:26
-146,985197003,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Denim blue,985197,3,2021-10-14 00:12:26
-147,985197003,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Denim blue,985197,3,2021-10-14 00:12:26
-148,985197004,Cotton 100%,Slim fit,,,,"
-							  Slim Jeans",19.99,Dark denim blue,985197,4,2021-10-14 00:12:26
-149,985197004,"Cotton 99%, Elastane 1%",Slim fit,,,,"
-							  Slim Jeans",19.99,Dark denim blue,985197,4,2021-10-14 00:12:26
-150,985197005,"Cotton 99%, Elastane 1%",Slim fit,,,Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark denim blue,985197,5,2021-10-14 00:12:26
-151,985197005,"Polyester 65%, Cotton 35%",Slim fit,,,Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark denim blue,985197,5,2021-10-14 00:12:26
-152,985197006,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",,"
-							  Slim Jeans",19.99,Light denim blue,985197,6,2021-10-14 00:12:26
-153,985197006,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",,"
-							  Slim Jeans",19.99,Light denim blue,985197,6,2021-10-14 00:12:26
-154,985197007,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark gray,985197,7,2021-10-14 00:12:26
-155,985197007,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark gray,985197,7,2021-10-14 00:12:26
-156,985159001,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Black,985159,1,2021-10-14 00:12:26
-157,985159001,Cotton 100%,Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Black,985159,1,2021-10-14 00:12:26
-158,985159002,Cotton 100%,Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Denim blue,985159,2,2021-10-14 00:12:26
-159,985159002,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Denim blue,985159,2,2021-10-14 00:12:26
-160,985159003,"Polyester 63%, Cotton 37%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark gray,985159,3,2021-10-14 00:12:26
-161,985159003,"Cotton 99%, Elastane 1%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark gray,985159,3,2021-10-14 00:12:26
-162,985159004,"Cotton 99%, Elastane 1%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Light denim blue,985159,4,2021-10-14 00:12:26
-163,985159004,Cotton 100%,Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Light denim blue,985159,4,2021-10-14 00:12:26
-164,985159005,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark blue,985159,5,2021-10-14 00:12:26
-165,985159005,Cotton 100%,Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark blue,985159,5,2021-10-14 00:12:26
-166,985159006,"Polyester 65%, Cotton 35%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark denim blue,985159,6,2021-10-14 00:12:26
-167,985159006,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark denim blue,985159,6,2021-10-14 00:12:26
-168,690449022,Polyester 100%,Skinny fit,,"The model is 184cm/6'0"" and wears a size 31/32",,"
-							  Skinny Jeans",39.99,Black/trashed,690449,22,2021-10-14 00:12:26
-169,690449022,"Cotton 98%, Elastane 2%",Skinny fit,,"The model is 184cm/6'0"" and wears a size 31/32",,"
-							  Skinny Jeans",39.99,Black/trashed,690449,22,2021-10-14 00:12:26
-170,690449001,"Cotton 99%, Elastane 1%",Skinny fit,,,,"
-							  Skinny Jeans",16.99,Light denim blue/trashed,690449,1,2021-10-14 00:12:26
-171,690449002,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",14.99,Denim blue,690449,2,2021-10-14 00:12:26
-172,690449006,Cotton 100%,Skinny fit,,,,"
-							  Skinny Jeans",7.99,Black/washed,690449,6,2021-10-14 00:12:26
-173,690449006,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",7.99,Black/washed,690449,6,2021-10-14 00:12:26
-174,690449007,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",14.99,Light denim blue,690449,7,2021-10-14 00:12:26
-175,690449007,Cotton 100%,Skinny fit,,,,"
-							  Skinny Jeans",14.99,Light denim blue,690449,7,2021-10-14 00:12:26
-176,690449009,"Cotton 99%, Elastane 1%",Skinny fit,,,,"
-							  Skinny Jeans",19.99,Black washed out,690449,9,2021-10-14 00:12:26
-177,690449011,"Cotton 99%, Elastane 1%",Skinny fit,,,,"
-							  Skinny Jeans",19.99,White,690449,11,2021-10-14 00:12:26
-178,690449013,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",27.99,Black/washed,690449,13,2021-10-14 00:12:26
-179,690449013,Polyester 100%,Skinny fit,,,,"
-							  Skinny Jeans",27.99,Black/washed,690449,13,2021-10-14 00:12:26
-180,690449021,Polyester 100%,Skinny fit,,,,"
-							  Skinny Jeans",25.99,Dark denim blue/trashed,690449,21,2021-10-14 00:12:26
-181,690449021,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",25.99,Dark denim blue/trashed,690449,21,2021-10-14 00:12:26
-182,690449024,Polyester 100%,Skinny fit,,,,"
-							  Skinny Jeans",20.99,Dark blue/Trashed,690449,24,2021-10-14 00:12:26
-183,690449024,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",20.99,Dark blue/Trashed,690449,24,2021-10-14 00:12:26
-184,690449028,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",19.99,Dark blue/washed out,690449,28,2021-10-14 00:12:26
-185,690449035,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",21.99,Denim blue/trashed,690449,35,2021-10-14 00:12:26
-186,690449036,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",39.99,Black,690449,36,2021-10-14 00:12:26
-187,690449040,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",29.99,Denim gray,690449,40,2021-10-14 00:12:26
-188,690449040,"Polyester 65%, Cotton 35%",Skinny fit,,,,"
-							  Skinny Jeans",29.99,Denim gray,690449,40,2021-10-14 00:12:26
-189,690449043,"Cotton 98%, Elastane 2%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",,"
-							  Skinny Jeans",39.99,Light denim blue/trashed,690449,43,2021-10-14 00:12:26
-190,690449043,"Polyester 65%, Cotton 35%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",,"
-							  Skinny Jeans",39.99,Light denim blue/trashed,690449,43,2021-10-14 00:12:26
-191,690449046,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",39.99,Light denim gray/Trashed,690449,46,2021-10-14 00:12:26
-192,690449051,"Cotton 98%, Elastane 2%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",39.99,Gray,690449,51,2021-10-14 00:12:26
-193,690449043,"Cotton 98%, Elastane 2%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",,"
-							  Skinny Jeans",39.99,Light denim blue/trashed,690449,43,2021-10-14 00:12:26
-194,690449043,"Polyester 65%, Cotton 35%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",,"
-							  Skinny Jeans",39.99,Light denim blue/trashed,690449,43,2021-10-14 00:12:26
-195,690449001,"Cotton 99%, Elastane 1%",Skinny fit,,,,"
-							  Skinny Jeans",16.99,Light denim blue/trashed,690449,1,2021-10-14 00:12:26
-196,690449002,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",14.99,Denim blue,690449,2,2021-10-14 00:12:26
-197,690449006,Cotton 100%,Skinny fit,,,,"
-							  Skinny Jeans",7.99,Black/washed,690449,6,2021-10-14 00:12:26
-198,690449006,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",7.99,Black/washed,690449,6,2021-10-14 00:12:26
-199,690449007,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",14.99,Light denim blue,690449,7,2021-10-14 00:12:26
-200,690449007,Cotton 100%,Skinny fit,,,,"
-							  Skinny Jeans",14.99,Light denim blue,690449,7,2021-10-14 00:12:26
-201,690449009,"Cotton 99%, Elastane 1%",Skinny fit,,,,"
-							  Skinny Jeans",19.99,Black washed out,690449,9,2021-10-14 00:12:26
-202,690449011,"Cotton 99%, Elastane 1%",Skinny fit,,,,"
-							  Skinny Jeans",19.99,White,690449,11,2021-10-14 00:12:26
-203,690449013,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",27.99,Black/washed,690449,13,2021-10-14 00:12:26
-204,690449013,Polyester 100%,Skinny fit,,,,"
-							  Skinny Jeans",27.99,Black/washed,690449,13,2021-10-14 00:12:26
-205,690449021,Polyester 100%,Skinny fit,,,,"
-							  Skinny Jeans",25.99,Dark denim blue/trashed,690449,21,2021-10-14 00:12:26
-206,690449021,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",25.99,Dark denim blue/trashed,690449,21,2021-10-14 00:12:26
-207,690449022,Polyester 100%,Skinny fit,,"The model is 184cm/6'0"" and wears a size 31/32",,"
-							  Skinny Jeans",39.99,Black/trashed,690449,22,2021-10-14 00:12:26
-208,690449022,"Cotton 98%, Elastane 2%",Skinny fit,,"The model is 184cm/6'0"" and wears a size 31/32",,"
-							  Skinny Jeans",39.99,Black/trashed,690449,22,2021-10-14 00:12:26
-209,690449024,Polyester 100%,Skinny fit,,,,"
-							  Skinny Jeans",20.99,Dark blue/Trashed,690449,24,2021-10-14 00:12:26
-210,690449024,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",20.99,Dark blue/Trashed,690449,24,2021-10-14 00:12:26
-211,690449028,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",19.99,Dark blue/washed out,690449,28,2021-10-14 00:12:26
-212,690449035,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",21.99,Denim blue/trashed,690449,35,2021-10-14 00:12:26
-213,690449036,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",39.99,Black,690449,36,2021-10-14 00:12:26
-214,690449040,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",29.99,Denim gray,690449,40,2021-10-14 00:12:26
-215,690449040,"Polyester 65%, Cotton 35%",Skinny fit,,,,"
-							  Skinny Jeans",29.99,Denim gray,690449,40,2021-10-14 00:12:26
-216,690449046,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Skinny Jeans",39.99,Light denim gray/Trashed,690449,46,2021-10-14 00:12:26
-217,690449051,"Cotton 98%, Elastane 2%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",39.99,Gray,690449,51,2021-10-14 00:12:26
-218,985197003,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Denim blue,985197,3,2021-10-14 00:12:26
-219,985197003,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Denim blue,985197,3,2021-10-14 00:12:26
-220,985197001,Cotton 100%,Slim fit,,"The model is 189cm/6'2"" and wears a size 32/32",,"
-							  Slim Jeans",19.99,Black,985197,1,2021-10-14 00:12:26
-221,985197001,"Cotton 98%, Elastane 2%",Slim fit,,"The model is 189cm/6'2"" and wears a size 32/32",,"
-							  Slim Jeans",19.99,Black,985197,1,2021-10-14 00:12:26
-222,985197002,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Midnight blue,985197,2,2021-10-14 00:12:26
-223,985197002,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Midnight blue,985197,2,2021-10-14 00:12:26
-224,985197004,Cotton 100%,Slim fit,,,,"
-							  Slim Jeans",19.99,Dark denim blue,985197,4,2021-10-14 00:12:26
-225,985197004,"Cotton 99%, Elastane 1%",Slim fit,,,,"
-							  Slim Jeans",19.99,Dark denim blue,985197,4,2021-10-14 00:12:26
-226,985197005,"Cotton 99%, Elastane 1%",Slim fit,,,Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark denim blue,985197,5,2021-10-14 00:12:26
-227,985197005,"Polyester 65%, Cotton 35%",Slim fit,,,Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark denim blue,985197,5,2021-10-14 00:12:26
-228,985197006,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",,"
-							  Slim Jeans",19.99,Light denim blue,985197,6,2021-10-14 00:12:26
-229,985197006,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",,"
-							  Slim Jeans",19.99,Light denim blue,985197,6,2021-10-14 00:12:26
-230,985197007,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark gray,985197,7,2021-10-14 00:12:26
-231,985197007,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark gray,985197,7,2021-10-14 00:12:26
-232,985197007,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark gray,985197,7,2021-10-14 00:12:26
-233,985197007,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark gray,985197,7,2021-10-14 00:12:26
-234,985197001,Cotton 100%,Slim fit,,"The model is 189cm/6'2"" and wears a size 32/32",,"
-							  Slim Jeans",19.99,Black,985197,1,2021-10-14 00:12:26
-235,985197001,"Cotton 98%, Elastane 2%",Slim fit,,"The model is 189cm/6'2"" and wears a size 32/32",,"
-							  Slim Jeans",19.99,Black,985197,1,2021-10-14 00:12:26
-236,985197002,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Midnight blue,985197,2,2021-10-14 00:12:26
-237,985197002,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Midnight blue,985197,2,2021-10-14 00:12:26
-238,985197003,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Denim blue,985197,3,2021-10-14 00:12:26
-239,985197003,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Denim blue,985197,3,2021-10-14 00:12:26
-240,985197004,Cotton 100%,Slim fit,,,,"
-							  Slim Jeans",19.99,Dark denim blue,985197,4,2021-10-14 00:12:26
-241,985197004,"Cotton 99%, Elastane 1%",Slim fit,,,,"
-							  Slim Jeans",19.99,Dark denim blue,985197,4,2021-10-14 00:12:26
-242,985197005,"Cotton 99%, Elastane 1%",Slim fit,,,Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark denim blue,985197,5,2021-10-14 00:12:26
-243,985197005,"Polyester 65%, Cotton 35%",Slim fit,,,Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark denim blue,985197,5,2021-10-14 00:12:26
-244,985197006,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",,"
-							  Slim Jeans",19.99,Light denim blue,985197,6,2021-10-14 00:12:26
-245,985197006,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",,"
-							  Slim Jeans",19.99,Light denim blue,985197,6,2021-10-14 00:12:26
-246,985197002,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Midnight blue,985197,2,2021-10-14 00:12:26
-247,985197002,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Midnight blue,985197,2,2021-10-14 00:12:26
-248,985197001,Cotton 100%,Slim fit,,"The model is 189cm/6'2"" and wears a size 32/32",,"
-							  Slim Jeans",19.99,Black,985197,1,2021-10-14 00:12:26
-249,985197001,"Cotton 98%, Elastane 2%",Slim fit,,"The model is 189cm/6'2"" and wears a size 32/32",,"
-							  Slim Jeans",19.99,Black,985197,1,2021-10-14 00:12:26
-250,985197003,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Denim blue,985197,3,2021-10-14 00:12:26
-251,985197003,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Denim blue,985197,3,2021-10-14 00:12:26
-252,985197004,Cotton 100%,Slim fit,,,,"
-							  Slim Jeans",19.99,Dark denim blue,985197,4,2021-10-14 00:12:26
-253,985197004,"Cotton 99%, Elastane 1%",Slim fit,,,,"
-							  Slim Jeans",19.99,Dark denim blue,985197,4,2021-10-14 00:12:26
-254,985197005,"Cotton 99%, Elastane 1%",Slim fit,,,Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark denim blue,985197,5,2021-10-14 00:12:26
-255,985197005,"Polyester 65%, Cotton 35%",Slim fit,,,Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark denim blue,985197,5,2021-10-14 00:12:26
-256,985197006,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",,"
-							  Slim Jeans",19.99,Light denim blue,985197,6,2021-10-14 00:12:26
-257,985197006,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",,"
-							  Slim Jeans",19.99,Light denim blue,985197,6,2021-10-14 00:12:26
-258,985197007,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark gray,985197,7,2021-10-14 00:12:26
-259,985197007,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark gray,985197,7,2021-10-14 00:12:26
-260,985159002,Cotton 100%,Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Denim blue,985159,2,2021-10-14 00:12:26
-261,985159002,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Denim blue,985159,2,2021-10-14 00:12:26
-262,985159001,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Black,985159,1,2021-10-14 00:12:26
-263,985159001,Cotton 100%,Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Black,985159,1,2021-10-14 00:12:26
-264,985159003,"Polyester 63%, Cotton 37%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark gray,985159,3,2021-10-14 00:12:26
-265,985159003,"Cotton 99%, Elastane 1%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark gray,985159,3,2021-10-14 00:12:26
-266,985159004,"Cotton 99%, Elastane 1%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Light denim blue,985159,4,2021-10-14 00:12:26
-267,985159004,Cotton 100%,Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Light denim blue,985159,4,2021-10-14 00:12:26
-268,985159005,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark blue,985159,5,2021-10-14 00:12:26
-269,985159005,Cotton 100%,Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark blue,985159,5,2021-10-14 00:12:26
-270,985159006,"Polyester 65%, Cotton 35%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark denim blue,985159,6,2021-10-14 00:12:26
-271,985159006,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark denim blue,985159,6,2021-10-14 00:12:26
-272,985159003,"Polyester 63%, Cotton 37%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark gray,985159,3,2021-10-14 00:12:26
-273,985159003,"Cotton 99%, Elastane 1%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark gray,985159,3,2021-10-14 00:12:26
-274,985159001,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Black,985159,1,2021-10-14 00:12:26
-275,985159001,Cotton 100%,Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Black,985159,1,2021-10-14 00:12:26
-276,985159002,Cotton 100%,Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Denim blue,985159,2,2021-10-14 00:12:26
-277,985159002,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Denim blue,985159,2,2021-10-14 00:12:26
-278,985159004,"Cotton 99%, Elastane 1%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Light denim blue,985159,4,2021-10-14 00:12:26
-279,985159004,Cotton 100%,Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Light denim blue,985159,4,2021-10-14 00:12:26
-280,985159005,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark blue,985159,5,2021-10-14 00:12:26
-281,985159005,Cotton 100%,Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark blue,985159,5,2021-10-14 00:12:26
-282,985159006,"Polyester 65%, Cotton 35%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark denim blue,985159,6,2021-10-14 00:12:26
-283,985159006,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark denim blue,985159,6,2021-10-14 00:12:26
-284,985197004,Cotton 100%,Slim fit,,,,"
-							  Slim Jeans",19.99,Dark denim blue,985197,4,2021-10-14 00:12:26
-285,985197004,"Cotton 99%, Elastane 1%",Slim fit,,,,"
-							  Slim Jeans",19.99,Dark denim blue,985197,4,2021-10-14 00:12:26
-286,985197001,Cotton 100%,Slim fit,,"The model is 189cm/6'2"" and wears a size 32/32",,"
-							  Slim Jeans",19.99,Black,985197,1,2021-10-14 00:12:26
-287,985197001,"Cotton 98%, Elastane 2%",Slim fit,,"The model is 189cm/6'2"" and wears a size 32/32",,"
-							  Slim Jeans",19.99,Black,985197,1,2021-10-14 00:12:26
-288,985197002,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Midnight blue,985197,2,2021-10-14 00:12:26
-289,985197002,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Midnight blue,985197,2,2021-10-14 00:12:26
-290,985197003,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Denim blue,985197,3,2021-10-14 00:12:26
-291,985197003,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Denim blue,985197,3,2021-10-14 00:12:26
-292,985197005,"Cotton 99%, Elastane 1%",Slim fit,,,Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark denim blue,985197,5,2021-10-14 00:12:26
-293,985197005,"Polyester 65%, Cotton 35%",Slim fit,,,Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark denim blue,985197,5,2021-10-14 00:12:26
-294,985197006,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",,"
-							  Slim Jeans",19.99,Light denim blue,985197,6,2021-10-14 00:12:26
-295,985197006,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",,"
-							  Slim Jeans",19.99,Light denim blue,985197,6,2021-10-14 00:12:26
-296,985197007,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark gray,985197,7,2021-10-14 00:12:26
-297,985197007,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark gray,985197,7,2021-10-14 00:12:26
-298,1004199002,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32",Recycled cotton 20%,"
-							  Skinny Cropped Jeans",29.99,Black,1004199,2,2021-10-14 00:12:26
-299,1004199001,"Cotton 99%, Elastane 1%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Cropped Jeans",29.99,Light denim blue,1004199,1,2021-10-14 00:12:26
-300,1004199003,"Polyester 65%, Cotton 35%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Cropped Jeans",29.99,Denim blue,1004199,3,2021-10-14 00:12:26
-301,1004199003,"Cotton 99%, Elastane 1%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Cropped Jeans",29.99,Denim blue,1004199,3,2021-10-14 00:12:26
-302,1004476005,"Cotton 90%, Elasterell-P 8%, Elastane 2%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",,"
-							  Freefit® Slim Jeans",49.99,Black/No fade black,1004476,5,2021-10-14 00:12:26
-303,1004476001,"Cotton 90%, Elasterell-P 8%, Elastane 2%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",,"
-							  Freefit® Slim Jeans",49.99,Light denim blue,1004476,1,2021-10-14 00:12:26
-304,1004476002,"Cotton 90%, Elasterell-P 8%, Elastane 2%",Slim fit,,,,"
-							  Freefit® Slim Jeans",49.99,Light denim blue,1004476,2,2021-10-14 00:12:26
-305,1004476004,"Cotton 90%, Elasterell-P 8%, Elastane 2%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",,"
-							  Freefit® Slim Jeans",49.99,Dark denim blue,1004476,4,2021-10-14 00:12:26
-306,985159004,"Cotton 99%, Elastane 1%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Light denim blue,985159,4,2021-10-14 00:12:26
-307,985159004,Cotton 100%,Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Light denim blue,985159,4,2021-10-14 00:12:26
-308,985159001,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Black,985159,1,2021-10-14 00:12:26
-309,985159001,Cotton 100%,Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Black,985159,1,2021-10-14 00:12:26
-310,985159002,Cotton 100%,Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Denim blue,985159,2,2021-10-14 00:12:26
-311,985159002,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Denim blue,985159,2,2021-10-14 00:12:26
-312,985159003,"Polyester 63%, Cotton 37%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark gray,985159,3,2021-10-14 00:12:26
-313,985159003,"Cotton 99%, Elastane 1%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark gray,985159,3,2021-10-14 00:12:26
-314,985159005,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark blue,985159,5,2021-10-14 00:12:26
-315,985159005,Cotton 100%,Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark blue,985159,5,2021-10-14 00:12:26
-316,985159006,"Polyester 65%, Cotton 35%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark denim blue,985159,6,2021-10-14 00:12:26
-317,985159006,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark denim blue,985159,6,2021-10-14 00:12:26
-318,985197006,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",,"
-							  Slim Jeans",19.99,Light denim blue,985197,6,2021-10-14 00:12:26
-319,985197006,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",,"
-							  Slim Jeans",19.99,Light denim blue,985197,6,2021-10-14 00:12:26
-320,985197001,Cotton 100%,Slim fit,,"The model is 189cm/6'2"" and wears a size 32/32",,"
-							  Slim Jeans",19.99,Black,985197,1,2021-10-14 00:12:26
-321,985197001,"Cotton 98%, Elastane 2%",Slim fit,,"The model is 189cm/6'2"" and wears a size 32/32",,"
-							  Slim Jeans",19.99,Black,985197,1,2021-10-14 00:12:26
-322,985197002,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Midnight blue,985197,2,2021-10-14 00:12:26
-323,985197002,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Midnight blue,985197,2,2021-10-14 00:12:26
-324,985197003,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Denim blue,985197,3,2021-10-14 00:12:26
-325,985197003,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Denim blue,985197,3,2021-10-14 00:12:26
-326,985197004,Cotton 100%,Slim fit,,,,"
-							  Slim Jeans",19.99,Dark denim blue,985197,4,2021-10-14 00:12:26
-327,985197004,"Cotton 99%, Elastane 1%",Slim fit,,,,"
-							  Slim Jeans",19.99,Dark denim blue,985197,4,2021-10-14 00:12:26
-328,985197005,"Cotton 99%, Elastane 1%",Slim fit,,,Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark denim blue,985197,5,2021-10-14 00:12:26
-329,985197005,"Polyester 65%, Cotton 35%",Slim fit,,,Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark denim blue,985197,5,2021-10-14 00:12:26
-330,985197007,"Polyester 65%, Cotton 35%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark gray,985197,7,2021-10-14 00:12:26
-331,985197007,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Jeans",19.99,Dark gray,985197,7,2021-10-14 00:12:26
-332,985159006,"Polyester 65%, Cotton 35%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark denim blue,985159,6,2021-10-14 00:12:26
-333,985159006,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark denim blue,985159,6,2021-10-14 00:12:26
-334,985159001,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Black,985159,1,2021-10-14 00:12:26
-335,985159001,Cotton 100%,Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Black,985159,1,2021-10-14 00:12:26
-336,985159002,Cotton 100%,Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Denim blue,985159,2,2021-10-14 00:12:26
-337,985159002,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Denim blue,985159,2,2021-10-14 00:12:26
-338,985159003,"Polyester 63%, Cotton 37%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark gray,985159,3,2021-10-14 00:12:26
-339,985159003,"Cotton 99%, Elastane 1%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark gray,985159,3,2021-10-14 00:12:26
-340,985159004,"Cotton 99%, Elastane 1%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Light denim blue,985159,4,2021-10-14 00:12:26
-341,985159004,Cotton 100%,Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Light denim blue,985159,4,2021-10-14 00:12:26
-342,985159005,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark blue,985159,5,2021-10-14 00:12:26
-343,985159005,Cotton 100%,Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark blue,985159,5,2021-10-14 00:12:26
-344,1004476002,"Cotton 90%, Elasterell-P 8%, Elastane 2%",Slim fit,,,,"
-							  Freefit® Slim Jeans",49.99,Light denim blue,1004476,2,2021-10-14 00:12:26
-345,1004476001,"Cotton 90%, Elasterell-P 8%, Elastane 2%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",,"
-							  Freefit® Slim Jeans",49.99,Light denim blue,1004476,1,2021-10-14 00:12:26
-346,1004476004,"Cotton 90%, Elasterell-P 8%, Elastane 2%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",,"
-							  Freefit® Slim Jeans",49.99,Dark denim blue,1004476,4,2021-10-14 00:12:26
-347,1004476005,"Cotton 90%, Elasterell-P 8%, Elastane 2%",Slim fit,,"The model is 182cm/6'0"" and wears a size 31/32",,"
-							  Freefit® Slim Jeans",49.99,Black/No fade black,1004476,5,2021-10-14 00:12:26
-348,974597003,"Polyester 65%, Cotton 35%",Slim fit,,,Recycled cotton 21%,"
-							  Slim Tapered Jeans",29.99,Black,974597,3,2021-10-14 00:12:26
-349,974597003,"Cotton 98%, Elastane 2%",Slim fit,,,Recycled cotton 21%,"
-							  Slim Tapered Jeans",29.99,Black,974597,3,2021-10-14 00:12:26
-350,974597001,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 186cm/6'1"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Tapered Jeans",29.99,Denim blue,974597,1,2021-10-14 00:12:26
-351,974597001,Cotton 100%,Slim fit,,"The model is 186cm/6'1"" and wears a size 31/32",Recycled cotton 20%,"
-							  Slim Tapered Jeans",29.99,Denim blue,974597,1,2021-10-14 00:12:26
-352,974597002,"Cotton 99%, Elastane 1%",Slim fit,,,Recycled cotton 20%,"
-							  Slim Tapered Jeans",29.99,Denim blue,974597,2,2021-10-14 00:12:26
-353,974597002,Cotton 100%,Slim fit,,,Recycled cotton 20%,"
-							  Slim Tapered Jeans",29.99,Denim blue,974597,2,2021-10-14 00:12:26
-354,974597005,Cotton 100%,Slim fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Slim Tapered Jeans",29.99,Light denim blue,974597,5,2021-10-14 00:12:26
-355,974597005,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Slim Tapered Jeans",29.99,Light denim blue,974597,5,2021-10-14 00:12:26
-356,974597006,"Cotton 98%, Elastane 2%",Slim fit,,,Recycled cotton 20%,"
-							  Slim Tapered Jeans",29.99,Dark gray,974597,6,2021-10-14 00:12:26
-357,974597006,Cotton 100%,Slim fit,,,Recycled cotton 20%,"
-							  Slim Tapered Jeans",29.99,Dark gray,974597,6,2021-10-14 00:12:26
-358,985159005,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark blue,985159,5,2021-10-14 00:12:26
-359,985159005,Cotton 100%,Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark blue,985159,5,2021-10-14 00:12:26
-360,985159001,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Black,985159,1,2021-10-14 00:12:26
-361,985159001,Cotton 100%,Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Black,985159,1,2021-10-14 00:12:26
-362,985159002,Cotton 100%,Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Denim blue,985159,2,2021-10-14 00:12:26
-363,985159002,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Denim blue,985159,2,2021-10-14 00:12:26
-364,985159003,"Polyester 63%, Cotton 37%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark gray,985159,3,2021-10-14 00:12:26
-365,985159003,"Cotton 99%, Elastane 1%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark gray,985159,3,2021-10-14 00:12:26
-366,985159004,"Cotton 99%, Elastane 1%",Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Light denim blue,985159,4,2021-10-14 00:12:26
-367,985159004,Cotton 100%,Skinny fit,,,Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Light denim blue,985159,4,2021-10-14 00:12:26
-368,985159006,"Polyester 65%, Cotton 35%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark denim blue,985159,6,2021-10-14 00:12:26
-369,985159006,"Cotton 99%, Elastane 1%",Skinny fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Skinny Jeans",19.99,Dark denim blue,985159,6,2021-10-14 00:12:26
-370,427159006,"Cotton 93%, Polyester 6%, Elastane 1%",Skinny fit,,"The model is 184cm/6'0"" and wears a size 31/32",,"
-							  Trashed Skinny Jeans",39.99,Light denim blue,427159,6,2021-10-14 00:12:26
-371,427159001,"Cotton 91%, Polyester 7%, Elastane 2%",Skinny fit,,,,"
-							  Trashed Skinny Jeans",39.99,Black denim,427159,1,2021-10-14 00:12:26
-372,427159002,"Cotton 93%, Polyester 6%, Elastane 1%",Skinny fit,,,,"
-							  Trashed Skinny Jeans",39.99,Blue washed out,427159,2,2021-10-14 00:12:26
-373,427159003,"Cotton 93%, Polyester 6%, Elastane 1%",Skinny fit,,,,"
-							  Trashed Skinny Jeans",39.99,Denim blue,427159,3,2021-10-14 00:12:26
-374,427159004,"Cotton 99%, Elastane 1%",Skinny fit,,,,"
-							  Trashed Skinny Jeans",39.99,Light denim blue,427159,4,2021-10-14 00:12:26
-375,427159005,"Cotton 72%, Polyester 20%, Modal 7%, Elastane 1%",Skinny fit,,,,"
-							  Trashed Skinny Jeans",39.99,Dark denim blue,427159,5,2021-10-14 00:12:26
-376,427159007,"Cotton 91%, Polyester 7%, Elastane 2%",Skinny fit,,,,"
-							  Trashed Skinny Jeans",18.99,Black washed out,427159,7,2021-10-14 00:12:26
-377,427159008,"Cotton 98%, Elastane 2%",Skinny fit,,,,"
-							  Trashed Skinny Jeans",18.99,Denim blue,427159,8,2021-10-14 00:12:26
-378,427159010,"Cotton 99%, Elastane 1%",Skinny fit,,,,"
-							  Trashed Skinny Jeans",39.99,White denim,427159,10,2021-10-14 00:12:26
-379,427159011,"Cotton 93%, Polyester 6%, Elastane 1%",Skinny fit,,,,"
-							  Trashed Skinny Jeans",24.99,Light blue washed out,427159,11,2021-10-14 00:12:26
-380,427159017,Cotton 100%,Skinny fit,,,,"
-							  Trashed Skinny Jeans",24.99,Super light denim blue,427159,17,2021-10-14 00:12:26
-381,427159022,"Cotton 93%, Polyester 6%, Elastane 1%",Skinny fit,,,,"
-							  Trashed Skinny Jeans",9.99,Black/trashed,427159,22,2021-10-14 00:12:26
-382,427159023,"Cotton 93%, Polyester 6%, Elastane 1%",Skinny fit,,,,"
-							  Trashed Skinny Jeans",21.99,Light denim blue,427159,23,2021-10-14 00:12:26
-383,427159025,"Cotton 93%, Polyester 6%, Elastane 1%",Skinny fit,,,,"
-							  Trashed Skinny Jeans",14.99,Denim blue/bleached,427159,25,2021-10-14 00:12:26
-384,427159027,"Cotton 93%, Polyester 6%, Elastane 1%",Skinny fit,,,,"
-							  Trashed Skinny Jeans",19.99,Black/bleached,427159,27,2021-10-14 00:12:26
-385,814631006,"Cotton 90%, Elasterell-P 8%, Elastane 2%",Slim fit,,,,"
-							  Freefit® Slim Jeans",49.99,Black/No fade black,814631,6,2021-10-14 00:12:26
-386,814631001,"Cotton 90%, Elasterell-P 8%, Elastane 2%",Slim fit,,,,"
-							  Freefit® Slim Jeans",49.99,Dark denim blue,814631,1,2021-10-14 00:12:26
-387,814631002,"Cotton 90%, Elasterell-P 8%, Elastane 2%",Slim fit,,,,"
-							  Freefit® Slim Jeans",49.99,Light denim blue,814631,2,2021-10-14 00:12:26
-388,814631003,"Cotton 90%, Elasterell-P 8%, Elastane 2%",Slim fit,,,,"
-							  Freefit® Slim Jeans",27.99,Dark gray,814631,3,2021-10-14 00:12:26
-389,814631004,"Cotton 90%, Elasterell-P 8%, Elastane 2%",Slim fit,,,,"
-							  Freefit® Slim Jeans",49.99,Pale denim blue,814631,4,2021-10-14 00:12:26
-390,814631005,"Cotton 90%, Elasterell-P 8%, Elastane 2%",Slim fit,,,,"
-							  Freefit® Slim Jeans",49.99,Light gray,814631,5,2021-10-14 00:12:26
-391,814631007,"Cotton 90%, Elasterell-P 8%, Elastane 2%",Slim fit,,,,"
-							  Freefit® Slim Jeans",30.99,Dark blue,814631,7,2021-10-14 00:12:26
-392,814631012,"Cotton 90%, Elasterell-P 8%, Elastane 2%",Slim fit,,,,"
-							  Freefit® Slim Jeans",25.99,White,814631,12,2021-10-14 00:12:26
-393,814631014,"Cotton 90%, Elasterell-P 8%, Elastane 2%",Slim fit,,,,"
-							  Freefit® Slim Jeans",19.99,Gray,814631,14,2021-10-14 00:12:26
-394,814631018,"Cotton 90%, Elasterell-P 8%, Elastane 2%",Slim fit,,,,"
-							  Freefit® Slim Jeans",49.99,Dark denim blue,814631,18,2021-10-14 00:12:26
-395,751994024,"Cotton 98%, Elastane 2%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",,"
-							  Slim Jeans",29.99,Black denim,751994,24,2021-10-14 00:12:26
-396,751994001,"Cotton 99%, Elastane 1%",Slim fit,,,,"
-							  Slim Jeans",11.99,Dark gray,751994,1,2021-10-14 00:12:26
-397,751994003,"Cotton 98%, Elastane 2%",Slim fit,,,,"
-							  Slim Jeans",13.99,Light denim blue,751994,3,2021-10-14 00:12:26
-398,751994004,"Cotton 98%, Elastane 2%",Slim fit,,,,"
-							  Slim Jeans",16.99,Dark denim blue,751994,4,2021-10-14 00:12:26
-399,751994005,"Cotton 98%, Elastane 2%",Slim fit,,,,"
-							  Slim Jeans",20.99,Dark blue,751994,5,2021-10-14 00:12:26
-400,751994006,"Cotton 98%, Elastane 2%",Slim fit,,,,"
-							  Slim Jeans",14.99,Denim blue,751994,6,2021-10-14 00:12:26
-401,751994007,"Cotton 98%, Elastane 2%",Slim fit,,,,"
-							  Slim Jeans",22.99,Black/washed out,751994,7,2021-10-14 00:12:26
-402,751994009,"Cotton 98%, Elastane 2%",Slim fit,,,,"
-							  Slim Jeans",29.99,Dark blue denim,751994,9,2021-10-14 00:12:26
-403,751994010,"Cotton 98%, Elastane 2%",Slim fit,,,,"
-							  Slim Jeans",29.99,Dark gray,751994,10,2021-10-14 00:12:26
-404,751994014,"Cotton 98%, Elastane 2%",Slim fit,,,,"
-							  Slim Jeans",17.99,Light gray,751994,14,2021-10-14 00:12:26
-405,751994016,"Cotton 98%, Elastane 2%",Slim fit,,,,"
-							  Slim Jeans",15.99,Dark blue,751994,16,2021-10-14 00:12:26
-406,751994017,"Cotton 98%, Elastane 2%",Slim fit,,,,"
-							  Slim Jeans",16.99,Dark denim blue,751994,17,2021-10-14 00:12:26
-407,751994018,"Cotton 98%, Elastane 2%",Slim fit,,,,"
-							  Slim Jeans",29.99,Denim blue,751994,18,2021-10-14 00:12:26
-408,751994031,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 187cm/6'2"" and wears a size 31/32",,"
-							  Slim Jeans",29.99,Light blue,751994,31,2021-10-14 00:12:26
-409,751994034,"Cotton 99%, Elastane 1%",Slim fit,,"The model is 189cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Slim Jeans",29.99,Dark blue,751994,34,2021-10-14 00:12:26
-410,1013317001,"Cotton 77%, Polyester 21%, Elastane 2%",Regular fit,,,Recycled polyester 21%,"
-							  Hybrid Regular Tapered Joggers",39.99,Light denim blue,1013317,1,2021-10-14 00:12:26
-411,1013317001,"Cotton 77%, Polyester 21%, Elastane 2%",Regular fit,,,Recycled cotton 20%,"
-							  Hybrid Regular Tapered Joggers",39.99,Light denim blue,1013317,1,2021-10-14 00:12:26
-412,1013317002,"Cotton 78%, Polyester 21%, Elastane 1%",Regular fit,,"The model is 189cm/6'2"" and wears a size L",Recycled cotton 19%,"
-							  Hybrid Regular Tapered Joggers",39.99,Denim blue,1013317,2,2021-10-14 00:12:26
-413,1013317004,"Cotton 78%, Polyester 21%, Elastane 1%",Regular fit,,,Recycled polyester 21%,"
-							  Hybrid Regular Tapered Joggers",39.99,Black,1013317,4,2021-10-14 00:12:26
-414,1013317004,"Cotton 78%, Polyester 21%, Elastane 1%",Regular fit,,,Recycled cotton 20%,"
-							  Hybrid Regular Tapered Joggers",39.99,Black,1013317,4,2021-10-14 00:12:26
-415,1013317005,"Cotton 79%, Polyester 19%, Elastane 2%",Regular fit,,,Recycled cotton 20%,"
-							  Hybrid Regular Tapered Joggers",39.99,Gray,1013317,5,2021-10-14 00:12:26
-416,1013317005,"Cotton 79%, Polyester 19%, Elastane 2%",Regular fit,,,Recycled polyester 19%,"
-							  Hybrid Regular Tapered Joggers",39.99,Gray,1013317,5,2021-10-14 00:12:26
-417,875105011,"Polyester 65%, Cotton 35%",Relaxed fit,,,Recycled cotton 20%,"
-							  Relaxed Jeans",29.99,Light denim blue,875105,11,2021-10-14 00:12:26
-418,875105011,Cotton 100%,Relaxed fit,,,Recycled cotton 20%,"
-							  Relaxed Jeans",29.99,Light denim blue,875105,11,2021-10-14 00:12:26
-419,875105001,Cotton 100%,Relaxed fit,,,Recycled cotton 20%,"
-							  Relaxed Jeans",29.99,Denim blue,875105,1,2021-10-14 00:12:26
-420,875105002,Cotton 100%,Relaxed fit,,"The model is 187cm/6'2"" and wears a size 32/32",Recycled cotton 20%,"
-							  Relaxed Jeans",29.99,Black,875105,2,2021-10-14 00:12:26
-421,875105003,Cotton 100%,Relaxed fit,,"The model is 187cm/6'2"" and wears a size 31/32",Recycled cotton 20%,"
-							  Relaxed Jeans",29.99,Light denim blue,875105,3,2021-10-14 00:12:26
-422,875105015,Cotton 100%,Relaxed fit,,,Recycled cotton 20%,"
-							  Relaxed Jeans",29.99,Light denim blue,875105,15,2021-10-14 00:12:26
+,product_id,fit,more_sustainable_materials,product_name,product_price,color_name,style_id,color_id,scrapy_datetime,size_number,size_model,cotton,polyester,elastane,elasterell
+0,0938875007,slim_fit,,slim_tapered_jeans,39.99,black,0938875,007,2021-10-16 22:13:23,188,31/32,1.0,0.0,0.01,0.0
+1,0938875001,slim_fit,Recycled cotton 20%,slim_tapered_jeans,39.99,light_denim_blue,0938875,001,2021-10-16 22:13:23,187,31/30,1.0,0.0,0.01,0.0
+2,0938875002,slim_fit,,slim_tapered_jeans,39.99,white,0938875,002,2021-10-16 22:13:23,,,1.0,0.0,0.01,0.0
+3,0938875004,slim_fit,Recycled cotton 20%,slim_tapered_jeans,18.99,dark_gray,0938875,004,2021-10-16 22:13:23,,,1.0,0.0,0.01,0.0
+4,0938875008,slim_fit,Recycled cotton 20%,slim_tapered_jeans,39.99,denim_blue,0938875,008,2021-10-16 22:13:23,187,31/32,1.0,0.0,0.01,0.0
+5,0974202002,regular_fit,Recycled cotton 20%,regular_denim_joggers,29.99,denim_blue,0974202,002,2021-10-16 22:13:23,,,1.0,0.0,0.0,0.0
+6,0974202001,regular_fit,Recycled cotton 20%,regular_denim_joggers,29.99,light_denim_blue,0974202,001,2021-10-16 22:13:23,187,,1.0,0.0,0.0,0.0
+7,0974202003,regular_fit,Recycled cotton 20%,regular_denim_joggers,29.99,black,0974202,003,2021-10-16 22:13:23,187,,1.0,0.0,0.0,0.0
+8,1018704001,relaxed_fit,Recycled cotton 20%,relaxed_pull-on_jeans,24.99,light_denim_blue,1018704,001,2021-10-16 22:13:23,188,,1.0,0.65,0.0,0.0
+9,1018704002,relaxed_fit,Recycled cotton 20%,relaxed_pull-on_jeans,24.99,denim_blue,1018704,002,2021-10-16 22:13:23,,,1.0,0.65,0.0,0.0
+10,1018704003,relaxed_fit,Recycled cotton 20%,relaxed_pull-on_jeans,24.99,black,1018704,003,2021-10-16 22:13:23,,,1.0,0.65,0.0,0.0
+11,0927964001,regular_fit,Recycled cotton 20%,regular_tapered_crop_jeans,19.99,denim_blue,0927964,001,2021-10-16 22:13:23,,,1.0,0.65,0.0,0.0
+12,0927964002,regular_fit,Recycled cotton 20%,regular_tapered_crop_jeans,19.99,light_denim_blue,0927964,002,2021-10-16 22:13:23,,,1.0,0.65,0.0,0.0
+13,0927964003,regular_fit,,regular_tapered_crop_jeans,19.99,dark_gray,0927964,003,2021-10-16 22:13:23,,,1.0,0.65,0.0,0.0
+14,0927964004,regular_fit,Recycled cotton 20%,regular_tapered_crop_jeans,19.99,steel_blue,0927964,004,2021-10-16 22:13:23,,,1.0,0.65,0.0,0.0
+15,0927964005,regular_fit,Recycled cotton 20%,regular_tapered_crop_jeans,10.99,white,0927964,005,2021-10-16 22:13:23,,,1.0,0.0,0.0,0.0
+16,0690449043,skinny_fit,,skinny_jeans,39.99,light_denim_blue/trashed,0690449,043,2021-10-16 22:13:23,187,32/32,0.98,0.65,0.02,0.0
+17,0690449001,skinny_fit,,skinny_jeans,16.99,light_denim_blue/trashed,0690449,001,2021-10-16 22:13:23,,,0.99,0.0,0.01,0.0
+18,0690449002,skinny_fit,,skinny_jeans,14.99,denim_blue,0690449,002,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+19,0690449006,skinny_fit,,skinny_jeans,7.99,black/washed,0690449,006,2021-10-16 22:13:23,,,1.0,0.0,0.02,0.0
+20,0690449007,skinny_fit,,skinny_jeans,14.99,light_denim_blue,0690449,007,2021-10-16 22:13:23,,,1.0,0.0,0.02,0.0
+21,0690449009,skinny_fit,,skinny_jeans,19.99,black_washed_out,0690449,009,2021-10-16 22:13:23,,,0.99,0.0,0.01,0.0
+22,0690449011,skinny_fit,,skinny_jeans,19.99,white,0690449,011,2021-10-16 22:13:23,,,0.99,0.0,0.01,0.0
+23,0690449013,skinny_fit,,skinny_jeans,27.99,black/washed,0690449,013,2021-10-16 22:13:23,,,0.98,1.0,0.02,0.0
+24,0690449021,skinny_fit,,skinny_jeans,25.99,dark_denim_blue/trashed,0690449,021,2021-10-16 22:13:23,,,0.98,1.0,0.02,0.0
+25,0690449022,skinny_fit,,skinny_jeans,39.99,black/trashed,0690449,022,2021-10-16 22:13:23,184,31/32,0.98,1.0,0.02,0.0
+26,0690449024,skinny_fit,,skinny_jeans,20.99,dark_blue/trashed,0690449,024,2021-10-16 22:13:23,,,0.98,1.0,0.02,0.0
+27,0690449028,skinny_fit,,skinny_jeans,19.99,dark_blue/washed_out,0690449,028,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+28,0690449035,skinny_fit,,skinny_jeans,21.99,denim_blue/trashed,0690449,035,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+29,0690449036,skinny_fit,,skinny_jeans,39.99,black,0690449,036,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+30,0690449040,skinny_fit,,skinny_jeans,29.99,denim_gray,0690449,040,2021-10-16 22:13:23,,,0.98,0.65,0.02,0.0
+31,0690449046,skinny_fit,,skinny_jeans,39.99,light_denim_gray/trashed,0690449,046,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+32,0690449051,skinny_fit,Recycled cotton 20%,skinny_jeans,39.99,gray,0690449,051,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+33,1004199002,skinny_fit,Recycled cotton 20%,skinny_cropped_jeans,29.99,black,1004199,002,2021-10-16 22:13:23,187,,0.99,0.0,0.01,0.0
+34,1004199001,skinny_fit,Recycled cotton 20%,skinny_cropped_jeans,29.99,light_denim_blue,1004199,001,2021-10-16 22:13:23,,,0.99,0.0,0.01,0.0
+35,1004199003,skinny_fit,Recycled cotton 20%,skinny_cropped_jeans,29.99,denim_blue,1004199,003,2021-10-16 22:13:23,,,0.99,0.65,0.01,0.0
+36,0985197007,slim_fit,Recycled cotton 20%,slim_jeans,19.99,dark_gray,0985197,007,2021-10-16 22:13:23,187,31/32,0.99,0.65,0.01,0.0
+37,0985197001,slim_fit,,slim_jeans,19.99,black,0985197,001,2021-10-16 22:13:23,189,32/32,1.0,0.0,0.02,0.0
+38,0985197002,slim_fit,Recycled cotton 20%,slim_jeans,19.99,midnight_blue,0985197,002,2021-10-16 22:13:23,182,31/32,0.99,0.65,0.01,0.0
+39,0985197003,slim_fit,Recycled cotton 20%,slim_jeans,19.99,denim_blue,0985197,003,2021-10-16 22:13:23,182,31/32,0.99,0.65,0.01,0.0
+40,0985197004,slim_fit,,slim_jeans,19.99,dark_denim_blue,0985197,004,2021-10-16 22:13:23,,,1.0,0.0,0.01,0.0
+41,0985197005,slim_fit,Recycled cotton 20%,slim_jeans,19.99,dark_denim_blue,0985197,005,2021-10-16 22:13:23,,,0.99,0.65,0.01,0.0
+42,0985197006,slim_fit,,slim_jeans,19.99,light_denim_blue,0985197,006,2021-10-16 22:13:23,187,31/32,0.99,0.65,0.01,0.0
+43,1004476002,slim_fit,,freefit®_slim_jeans,49.99,light_denim_blue,1004476,002,2021-10-16 22:13:23,,,0.9,0.0,0.02,0.08
+44,1004476001,slim_fit,,freefit®_slim_jeans,49.99,light_denim_blue,1004476,001,2021-10-16 22:13:23,182,31/32,0.9,0.0,0.02,0.08
+45,1004476004,slim_fit,,freefit®_slim_jeans,49.99,dark_denim_blue,1004476,004,2021-10-16 22:13:23,182,31/32,0.9,0.0,0.02,0.08
+46,1004476005,slim_fit,,freefit®_slim_jeans,49.99,black/no_fade_black,1004476,005,2021-10-16 22:13:23,182,31/32,0.9,0.0,0.02,0.08
+47,0427159006,skinny_fit,,trashed_skinny_jeans,39.99,light_denim_blue,0427159,006,2021-10-16 22:13:23,184,31/32,0.93,0.06,0.01,0.0
+48,0427159001,skinny_fit,,trashed_skinny_jeans,39.99,black_denim,0427159,001,2021-10-16 22:13:23,,,0.91,0.07,0.02,0.0
+49,0427159002,skinny_fit,,trashed_skinny_jeans,39.99,blue_washed_out,0427159,002,2021-10-16 22:13:23,,,0.93,0.06,0.01,0.0
+50,0427159003,skinny_fit,,trashed_skinny_jeans,39.99,denim_blue,0427159,003,2021-10-16 22:13:23,,,0.93,0.06,0.01,0.0
+51,0427159004,skinny_fit,,trashed_skinny_jeans,39.99,light_denim_blue,0427159,004,2021-10-16 22:13:23,,,0.99,0.0,0.01,0.0
+52,0427159005,skinny_fit,,trashed_skinny_jeans,39.99,dark_denim_blue,0427159,005,2021-10-16 22:13:23,,,0.72,0.2,0.01,0.0
+53,0427159007,skinny_fit,,trashed_skinny_jeans,18.99,black_washed_out,0427159,007,2021-10-16 22:13:23,,,0.91,0.07,0.02,0.0
+54,0427159008,skinny_fit,,trashed_skinny_jeans,18.99,denim_blue,0427159,008,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+55,0427159010,skinny_fit,,trashed_skinny_jeans,39.99,white_denim,0427159,010,2021-10-16 22:13:23,,,0.99,0.0,0.01,0.0
+56,0427159011,skinny_fit,,trashed_skinny_jeans,24.99,light_blue_washed_out,0427159,011,2021-10-16 22:13:23,,,0.93,0.06,0.01,0.0
+57,0427159017,skinny_fit,,trashed_skinny_jeans,24.99,super_light_denim_blue,0427159,017,2021-10-16 22:13:23,,,1.0,0.0,0.0,0.0
+58,0427159022,skinny_fit,,trashed_skinny_jeans,9.99,black/trashed,0427159,022,2021-10-16 22:13:23,,,0.93,0.06,0.01,0.0
+59,0427159023,skinny_fit,,trashed_skinny_jeans,21.99,light_denim_blue,0427159,023,2021-10-16 22:13:23,,,0.93,0.06,0.01,0.0
+60,0427159025,skinny_fit,,trashed_skinny_jeans,14.99,denim_blue/bleached,0427159,025,2021-10-16 22:13:23,,,0.93,0.06,0.01,0.0
+61,0427159027,skinny_fit,,trashed_skinny_jeans,19.99,black/bleached,0427159,027,2021-10-16 22:13:23,,,0.93,0.06,0.01,0.0
+62,0811993021,regular_fit,,regular_jeans,29.99,black,0811993,021,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+63,0811993001,regular_fit,,regular_jeans,12.99,black/washed_out,0811993,001,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+64,0811993002,regular_fit,,regular_jeans,29.99,denim_blue,0811993,002,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+65,0811993003,regular_fit,Recycled cotton 20%,regular_jeans,29.99,dark_denim_blue,0811993,003,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+66,0811993006,regular_fit,,regular_jeans,14.99,graphite_gray,0811993,006,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+67,0811993007,regular_fit,,regular_jeans,29.99,light_denim_blue,0811993,007,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+68,0811993022,regular_fit,,regular_jeans,16.99,cream,0811993,022,2021-10-16 22:13:23,,,0.99,0.0,0.01,0.0
+69,0811993024,regular_fit,Recycled cotton 20%,regular_jeans,29.99,denim_blue,0811993,024,2021-10-16 22:13:23,,,1.0,0.0,0.01,0.0
+70,0811993025,regular_fit,,regular_jeans,15.99,light_blue,0811993,025,2021-10-16 22:13:23,,,1.0,0.0,0.01,0.0
+71,0811993028,regular_fit,Recycled cotton 20%,regular_jeans,29.99,denim_blue,0811993,028,2021-10-16 22:13:23,185,31/32,0.99,0.0,0.01,0.0
+72,0811993031,regular_fit,Recycled cotton 20%,regular_jeans,29.99,dark_denim_blue,0811993,031,2021-10-16 22:13:23,,,0.99,0.0,0.01,0.0
+73,0811993034,regular_fit,Recycled cotton 20%,regular_jeans,29.99,pale_denim_blue,0811993,034,2021-10-16 22:13:23,187,31/32,0.99,0.0,0.01,0.0
+74,0811993036,regular_fit,Recycled cotton 20%,regular_jeans,29.99,blue,0811993,036,2021-10-16 22:13:23,183,31/32,0.99,0.0,0.01,0.0
+75,0811993037,regular_fit,Recycled cotton 20%,regular_jeans,29.99,dark_blue,0811993,037,2021-10-16 22:13:23,182,31/32,0.99,0.0,0.01,0.0
+76,0985159004,skinny_fit,Recycled cotton 20%,skinny_jeans,19.99,light_denim_blue,0985159,004,2021-10-16 22:13:23,,,1.0,0.0,0.01,0.0
+77,0985159001,skinny_fit,Recycled cotton 20%,skinny_jeans,19.99,black,0985159,001,2021-10-16 22:13:23,187,31/32,1.0,0.0,0.01,0.0
+78,0985159002,skinny_fit,Recycled cotton 20%,skinny_jeans,19.99,denim_blue,0985159,002,2021-10-16 22:13:23,187,31/32,1.0,0.0,0.01,0.0
+79,0985159003,skinny_fit,Recycled cotton 20%,skinny_jeans,19.99,dark_gray,0985159,003,2021-10-16 22:13:23,,,0.99,0.63,0.01,0.0
+80,0985159005,skinny_fit,Recycled cotton 20%,skinny_jeans,19.99,dark_blue,0985159,005,2021-10-16 22:13:23,187,32/32,1.0,0.0,0.01,0.0
+81,0985159006,skinny_fit,Recycled cotton 20%,skinny_jeans,19.99,dark_denim_blue,0985159,006,2021-10-16 22:13:23,187,32/32,0.99,0.65,0.01,0.0
+82,0751994009,slim_fit,,slim_jeans,29.99,dark_blue_denim,0751994,009,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+83,0751994001,slim_fit,,slim_jeans,11.99,dark_gray,0751994,001,2021-10-16 22:13:23,,,0.99,0.0,0.01,0.0
+84,0751994003,slim_fit,,slim_jeans,13.99,light_denim_blue,0751994,003,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+85,0751994004,slim_fit,,slim_jeans,16.99,dark_denim_blue,0751994,004,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+86,0751994005,slim_fit,,slim_jeans,20.99,dark_blue,0751994,005,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+87,0751994006,slim_fit,,slim_jeans,14.99,denim_blue,0751994,006,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+88,0751994007,slim_fit,,slim_jeans,22.99,black/washed_out,0751994,007,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+89,0751994010,slim_fit,,slim_jeans,29.99,dark_gray,0751994,010,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+90,0751994014,slim_fit,,slim_jeans,17.99,light_gray,0751994,014,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+91,0751994016,slim_fit,,slim_jeans,15.99,dark_blue,0751994,016,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+92,0751994017,slim_fit,,slim_jeans,16.99,dark_denim_blue,0751994,017,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+93,0751994018,slim_fit,,slim_jeans,29.99,denim_blue,0751994,018,2021-10-16 22:13:23,,,0.98,0.0,0.02,0.0
+94,0751994024,slim_fit,,slim_jeans,29.99,black_denim,0751994,024,2021-10-16 22:13:23,187,31/32,0.98,0.0,0.02,0.0
+95,0751994031,slim_fit,,slim_jeans,29.99,light_blue,0751994,031,2021-10-16 22:13:23,187,31/32,0.99,0.0,0.01,0.0
+96,0751994034,slim_fit,Recycled cotton 20%,slim_jeans,29.99,dark_blue,0751994,034,2021-10-16 22:13:23,189,32/32,0.99,0.0,0.01,0.0
+97,0974597001,slim_fit,Recycled cotton 20%,slim_tapered_jeans,29.99,denim_blue,0974597,001,2021-10-16 22:13:23,186,31/32,1.0,0.0,0.01,0.0
+98,0974597002,slim_fit,Recycled cotton 20%,slim_tapered_jeans,29.99,denim_blue,0974597,002,2021-10-16 22:13:23,,,1.0,0.0,0.01,0.0
+99,0974597003,slim_fit,Recycled cotton 21%,slim_tapered_jeans,29.99,black,0974597,003,2021-10-16 22:13:23,,,0.98,0.65,0.02,0.0
+100,0974597005,slim_fit,Recycled cotton 20%,slim_tapered_jeans,29.99,light_denim_blue,0974597,005,2021-10-16 22:13:23,187,32/32,1.0,0.0,0.01,0.0
+101,0974597006,slim_fit,Recycled cotton 20%,slim_tapered_jeans,29.99,dark_gray,0974597,006,2021-10-16 22:13:23,,,1.0,0.0,0.02,0.0
+102,1013317001,regular_fit,Recycled cotton 20%,hybrid_regular_tapered_joggers,39.99,light_denim_blue,1013317,001,2021-10-16 22:13:23,,,0.77,0.21,0.02,0.0
+103,1013317002,regular_fit,Recycled cotton 19%,hybrid_regular_tapered_joggers,39.99,denim_blue,1013317,002,2021-10-16 22:13:23,189,,0.78,0.21,0.01,0.0
+104,1013317004,regular_fit,Recycled cotton 20%,hybrid_regular_tapered_joggers,39.99,black,1013317,004,2021-10-16 22:13:23,,,0.78,0.21,0.01,0.0
+105,1013317005,regular_fit,Recycled polyester 19%,hybrid_regular_tapered_joggers,39.99,dark_gray,1013317,005,2021-10-16 22:13:23,,,0.79,0.19,0.02,0.0
+106,1008549006,regular_fit,Recycled cotton 20%,regular_jeans,19.99,black,1008549,006,2021-10-16 22:13:23,,,1.0,0.0,0.01,0.0
+107,1008549001,regular_fit,Recycled cotton 20%,regular_jeans,19.99,light_denim_blue,1008549,001,2021-10-16 22:13:23,189,32/32,0.98,0.65,0.02,0.0
+108,1008549002,regular_fit,Recycled cotton 20%,regular_jeans,19.99,denim_blue,1008549,002,2021-10-16 22:13:23,183,32/32,0.99,0.65,0.01,0.0
+109,1008549004,regular_fit,Recycled cotton 20%,regular_jeans,19.99,dark_blue,1008549,004,2021-10-16 22:13:23,189,32/32,0.99,0.63,0.01,0.0
